@@ -82,6 +82,10 @@ h1 {
   font-size: 2rem;
 }
 
+.btn:hover {
+  background-color: #ccc;
+}
+
 .guess {
   border: 4px solid #eee;
   background: none;
